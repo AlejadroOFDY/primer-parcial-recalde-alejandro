@@ -24,8 +24,7 @@ article {
 }
 
 /* ==== Títulos y subtítulos ==== */
-article h2,
-article h3 {
+article h2, article h3 {
   color: #7400a1;
   font-weight: bold;
 }
